@@ -1,0 +1,2 @@
+# SchoolHelp
+School Management software
